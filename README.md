@@ -18,6 +18,7 @@ Trackademy is a student-focused educational and productivity platform designed t
 * HTML
 * CSS
 * JavaScript
+* Replit AI tool
 
 ---
 
